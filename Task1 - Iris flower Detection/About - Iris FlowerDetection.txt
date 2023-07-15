@@ -15,7 +15,7 @@ problems. I evaluated the model's performance using appropriate metrics and cond
 
 The project focuses on classifying three different species of Iris flowers: Setosa, Versicolor, and Virginia.
 
-Iris has a genus of 300 Species of plants in family of Iridaceae.
+Iris has a genus of 300 Species of plants in the family of Iridaceae.
 
 Listed Species of Iris flower are:
 
