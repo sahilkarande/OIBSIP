@@ -1,4 +1,5 @@
-![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/c9c8c501-e3f2-4d66-ac93-1b918e7b23f6)![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/4f43f140-d55a-4602-9348-bf641d1832f5)
+![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/7318bd58-0ea9-45e6-9415-d8b70b6f69df)
+
 
 
 The Objective of this repository is to share the tasks assigned during my **Oasis Infobyte internship** in the field of **data science**. It serves as a platform to publish and showcase the projects and assignments I have completed throughout the internship. By making this repository accessible, **I aim to demonstrate my skills and progress in data science** to potential employers and the wider community. Additionally, it allows for collaboration and feedback from others interested in data science, fostering a learning and growth environment.
