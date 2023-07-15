@@ -1,0 +1,15 @@
+Iris Flower Classification
+
+What is Iris and what are its species?
+
+Iris is a genus of flowering plants that belongs to the **family Iridaceae.
+
+It had a diverse and widespread genus, known for its beautiful and showy flowers. 
+
+Iris has a genus of 300 Species of plants in family of Iridaceae.
+
+Listed Species of Iris flower are:
+
+1. Setosa: Setosa is often used as a species name in the biological classification of plants and animals. For example, "Iris setosa" is a species of iris, a type of flowering plant.
+2. Versicolor: Versicolor is another species name commonly used in biological classification. For instance, "Lobelia versicolor" is a species of flowering plant.
+3. Virginia: Virginia is a term that could refer to several things. It is often associated with the U.S. state of Virginia, or it could be a person's name. Additionally, there is a species of opossum called the Virginia opossum (Didelphis virginiana).
