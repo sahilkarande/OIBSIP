@@ -1,4 +1,6 @@
 **Unemployment Analysis during COVID-19: A Data Science Project**
+![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/b0890489-f635-4885-8312-a3b55530c5c5)
+
 
 **Introduction**
 The COVID-19 pandemic has had a significant impact on various aspects of the economy, with one of the most notable consequences being a surge in unemployment rates worldwide. This data science project aims to analyze and understand the patterns of unemployment during the COVID-19 pandemic. The primary focus is to explore how the unemployment rate has changed over time and identify the factors influencing this increase. This analysis is part of the Task 2 project for the Oasis Internship program.
