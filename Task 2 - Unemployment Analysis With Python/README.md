@@ -1,5 +1,5 @@
 **Unemployment Analysis during COVID-19: A Data Science Project**
-![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/b0890489-f635-4885-8312-a3b55530c5c5)
+[![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/b0890489-f635-4885-8312-a3b55530c5c5)](https://github.com/sahilkarande/OIBSIP/blob/main/Task%202%20-%20Unemployment%20Analysis%20With%20Python/Thumbnail.png)
 
 
 **Introduction**
