@@ -2,6 +2,11 @@
 [![image](https://github.com/sahilkarande/OIBSIP/assets/89865668/b0890489-f635-4885-8312-a3b55530c5c5)](https://github.com/sahilkarande/OIBSIP/blob/main/Task%202%20-%20Unemployment%20Analysis%20With%20Python/Thumbnail.png)
 
 
+https://github.com/sahilkarande/OIBSIP/assets/89865668/b5efdaf9-e069-43e1-a88f-83a5ee70123d
+
+
+
+
 **Introduction**
 The COVID-19 pandemic has had a significant impact on various aspects of the economy, with one of the most notable consequences being a surge in unemployment rates worldwide. This data science project aims to analyze and understand the patterns of unemployment during the COVID-19 pandemic. The primary focus is to explore how the unemployment rate has changed over time and identify the factors influencing this increase. This analysis is part of the Task 2 project for the Oasis Internship program.
 
