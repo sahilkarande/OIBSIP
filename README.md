@@ -12,9 +12,6 @@ Task 2: **Unemployment Analysis with Python**
 
 Task 3: **Car Price Prediction with Machine Learning**
 
-Task 4: **Email Spam Detection with Machine Learning**
-
-Task 5: **Sales Prediction using Python**
 
 These tasks provide an opportunity for me to apply various data science techniques and algorithms, honing my skills in data analysis, machine learning, and predictive modeling. I am excited to delve into each task and share my insights and findings through this repository. If you find any of these tasks intriguing or beneficial, please consider giving the repository a star mark. Your support is greatly appreciated!
 
