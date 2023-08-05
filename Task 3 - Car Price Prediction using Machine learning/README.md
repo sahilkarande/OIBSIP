@@ -1,6 +1,10 @@
 Task 3 - Car Price Prediction using Machine learning
 
+<<<<<<< HEAD
 https://github.com/sahilkarande/OIBSIP/blob/main/Task%203%20-%20Car%20Price%20Prediction%20using%20Machine%20learning/image.png
+=======
+
+>>>>>>> c4ff56c116abacd99514840c341eebfb9cfa021b
 
 https://github.com/sahilkarande/OIBSIP/blob/main/Task%203%20-%20Car%20Price%20Prediction%20using%20Machine%20learning/OIBSIP_T3.ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202023-08-04%2023-39-49%20(1).mp4
 
