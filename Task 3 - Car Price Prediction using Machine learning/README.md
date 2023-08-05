@@ -1,5 +1,10 @@
 Task 3 - Car Price Prediction using Machine learning
 
+https://github.com/sahilkarande/OIBSIP/blob/main/Task%203%20-%20Car%20Price%20Prediction%20using%20Machine%20learning/image.png
+
+https://github.com/sahilkarande/OIBSIP/blob/main/Task%203%20-%20Car%20Price%20Prediction%20using%20Machine%20learning/OIBSIP_T3.ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202023-08-04%2023-39-49%20(1).mp4
+
+
 Car price prediction is a fascinating and practical project in the field of machine learning. The objective of this project is to predict the selling price of used cars based on various features and characteristics that influence the car's value. The dataset contains valuable information about different cars listed on a website, including their model names, the year they were bought, the selling price, the current price of the same car model, the number of kilometers the car has been driven before selling, the type of fuel it uses, the type of seller, the gear transmission (automatic or manual), and the number of previous owners.
 
 The prediction of car prices is a valuable tool for buyers and sellers alike. For buyers, it helps to have an estimate of the fair price for a used car based on its features and other factors. For sellers, it aids in setting the right price to attract potential buyers and ensure a successful sale. Moreover, it serves as a significant research area in machine learning, as it involves dealing with real-world data, feature engineering, and applying various algorithms to build an accurate predictive model.
